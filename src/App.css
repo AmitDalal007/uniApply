@@ -1,0 +1,52 @@
+/* For Navbar */
+.navDrop{
+  background: transparent !important;
+  border: none;
+  border-bottom: 1px solid white;
+  color: white !important;
+  font-weight: 600 !important;
+}
+
+.fw-bol{
+  font-weight: 500;
+}
+
+/* Home */
+.homeCont1{
+  height: 350px !important;
+}
+
+.srchBar{
+  margin-top: 15px;
+  width: 500px;
+}
+
+.srchB{
+  border-radius: 0 !important;
+  border-bottom-left-radius: 15px !important;
+  border-top-left-radius: 15px !important;
+}
+
+.srchB2{
+  border-radius: 0 !important;
+  border-bottom-right-radius: 15px !important;
+  border-top-right-radius: 15px !important;
+}
+
+.srchBarTxt{
+  width: 500px;
+}
+
+.srchTxt{
+  margin-top: 4px;
+  text-decoration: none !important;
+  color: white !important;
+}
+
+.srchTxt:hover{
+  color: #ccc !important;
+}
+
+.crslBtn{
+  margin-bottom: -50px !important;
+}
